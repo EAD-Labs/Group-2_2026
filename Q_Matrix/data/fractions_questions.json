@@ -1,0 +1,613 @@
+{
+  "assessment": {
+    "title": "Fractions Assessment",
+    "subject": "Mathematics",
+    "topic": "Fractions"
+  },
+  "questions": [
+    {
+      "question_id": "Q1",
+      "question": "In the fraction 3/7, what is the numerator?",
+      "options": {
+        "A": "3",
+        "B": "7",
+        "C": "10",
+        "D": "21"
+      },
+      "correct_answer": "A",
+      "attribute_ids": [
+        "A1"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "Q2",
+      "question": "In the fraction 5/9, what is the denominator?",
+      "options": {
+        "A": "5",
+        "B": "4",
+        "C": "9",
+        "D": "14"
+      },
+      "correct_answer": "C",
+      "attribute_ids": [
+        "A1"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "Q3",
+      "question": "Which fraction represents one half?",
+      "options": {
+        "A": "1/2",
+        "B": "1/3",
+        "C": "2/3",
+        "D": "3/4"
+      },
+      "correct_answer": "A",
+      "attribute_ids": [
+        "A2"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "Q4",
+      "question": "Which fraction is shown by 3 shaded parts out of 5 equal parts?",
+      "options": {
+        "A": "2/5",
+        "B": "3/5",
+        "C": "3/2",
+        "D": "5/3"
+      },
+      "correct_answer": "B",
+      "attribute_ids": [
+        "A2"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "Q5",
+      "question": "Which is a proper fraction?",
+      "options": {
+        "A": "7/4",
+        "B": "9/9",
+        "C": "3/8",
+        "D": "11/5"
+      },
+      "correct_answer": "C",
+      "attribute_ids": [
+        "A3"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "Q6",
+      "question": "Which is an improper fraction?",
+      "options": {
+        "A": "2/7",
+        "B": "5/9",
+        "C": "9/4",
+        "D": "3/10"
+      },
+      "correct_answer": "C",
+      "attribute_ids": [
+        "A3"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "Q7",
+      "question": "Which is a mixed number?",
+      "options": {
+        "A": "7/3",
+        "B": "2 1/3",
+        "C": "4/9",
+        "D": "5/5"
+      },
+      "correct_answer": "B",
+      "attribute_ids": [
+        "A3"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "Q8",
+      "question": "Simplify 12/18.",
+      "options": {
+        "A": "2/3",
+        "B": "3/4",
+        "C": "4/5",
+        "D": "6/9"
+      },
+      "correct_answer": "A",
+      "attribute_ids": [
+        "A4"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "Q9",
+      "question": "Simplify 15/25.",
+      "options": {
+        "A": "2/5",
+        "B": "3/5",
+        "C": "5/8",
+        "D": "4/5"
+      },
+      "correct_answer": "B",
+      "attribute_ids": [
+        "A4"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "Q10",
+      "question": "Simplify 21/28.",
+      "options": {
+        "A": "2/3",
+        "B": "3/4",
+        "C": "4/7",
+        "D": "7/8"
+      },
+      "correct_answer": "B",
+      "attribute_ids": [
+        "A4"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "Q11",
+      "question": "Which fraction is equivalent to 2/3?",
+      "options": {
+        "A": "4/9",
+        "B": "6/9",
+        "C": "8/15",
+        "D": "10/18"
+      },
+      "correct_answer": "B",
+      "attribute_ids": [
+        "A5"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "Q12",
+      "question": "Which fraction is equivalent to 5/8?",
+      "options": {
+        "A": "10/16",
+        "B": "10/12",
+        "C": "15/20",
+        "D": "20/30"
+      },
+      "correct_answer": "A",
+      "attribute_ids": [
+        "A5"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "Q13",
+      "question": "Which fraction is equivalent to 3/4?",
+      "options": {
+        "A": "6/10",
+        "B": "9/12",
+        "C": "12/20",
+        "D": "15/24"
+      },
+      "correct_answer": "B",
+      "attribute_ids": [
+        "A5"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "Q14",
+      "question": "Which is greater?",
+      "options": {
+        "A": "2/5",
+        "B": "3/5",
+        "C": "They are equal",
+        "D": "Cannot tell"
+      },
+      "correct_answer": "B",
+      "attribute_ids": [
+        "A6"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "Q15",
+      "question": "Which is smaller?",
+      "options": {
+        "A": "5/8",
+        "B": "3/8",
+        "C": "7/8",
+        "D": "8/8"
+      },
+      "correct_answer": "B",
+      "attribute_ids": [
+        "A6"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "Q16",
+      "question": "Compare 4/7 and 5/7.",
+      "options": {
+        "A": "4/7 > 5/7",
+        "B": "4/7 < 5/7",
+        "C": "4/7 = 5/7",
+        "D": "Not comparable"
+      },
+      "correct_answer": "B",
+      "attribute_ids": [
+        "A6"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "Q17",
+      "question": "Compare 3/4 and 2/3.",
+      "options": {
+        "A": "3/4 < 2/3",
+        "B": "3/4 = 2/3",
+        "C": "3/4 > 2/3",
+        "D": "Not comparable"
+      },
+      "correct_answer": "C",
+      "attribute_ids": [
+        "A6"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "Q18",
+      "question": "Which fraction is greatest?",
+      "options": {
+        "A": "1/2",
+        "B": "2/3",
+        "C": "3/5",
+        "D": "5/8"
+      },
+      "correct_answer": "B",
+      "attribute_ids": [
+        "A6"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "Q19",
+      "question": "Which fraction is least?",
+      "options": {
+        "A": "4/5",
+        "B": "2/3",
+        "C": "3/4",
+        "D": "5/6"
+      },
+      "correct_answer": "B",
+      "attribute_ids": [
+        "A6"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "Q20",
+      "question": "Which statement is true?",
+      "options": {
+        "A": "5/6 < 3/4",
+        "B": "5/6 > 3/4",
+        "C": "5/6 = 3/4",
+        "D": "None"
+      },
+      "correct_answer": "B",
+      "attribute_ids": [
+        "A6"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "Q21",
+      "question": "Which statement is true?",
+      "options": {
+        "A": "7/10 < 2/5",
+        "B": "7/10 > 2/5",
+        "C": "7/10 = 2/5",
+        "D": "None"
+      },
+      "correct_answer": "B",
+      "attribute_ids": [
+        "A6"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "Q22",
+      "question": "Arrange 1/4, 3/4, 1/2 from least to greatest.",
+      "options": {
+        "A": "1/2,1/4,3/4",
+        "B": "1/4,1/2,3/4",
+        "C": "3/4,1/2,1/4",
+        "D": "1/4,3/4,1/2"
+      },
+      "correct_answer": "B",
+      "attribute_ids": [
+        "A7"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "Q23",
+      "question": "Arrange 2/3, 1/3, 5/6 from least to greatest.",
+      "options": {
+        "A": "1/3,2/3,5/6",
+        "B": "2/3,1/3,5/6",
+        "C": "5/6,2/3,1/3",
+        "D": "1/3,5/6,2/3"
+      },
+      "correct_answer": "A",
+      "attribute_ids": [
+        "A7"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "Q24",
+      "question": "Arrange 3/8, 7/8, 5/8 from least to greatest.",
+      "options": {
+        "A": "7/8,5/8,3/8",
+        "B": "3/8,5/8,7/8",
+        "C": "5/8,3/8,7/8",
+        "D": "3/8,7/8,5/8"
+      },
+      "correct_answer": "B",
+      "attribute_ids": [
+        "A7"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "Q25",
+      "question": "Convert 7/3 to a mixed number.",
+      "options": {
+        "A": "1 1/3",
+        "B": "2 1/3",
+        "C": "2 2/3",
+        "D": "3 1/2"
+      },
+      "correct_answer": "B",
+      "attribute_ids": [
+        "A8"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "Q26",
+      "question": "Convert 2 3/5 to an improper fraction.",
+      "options": {
+        "A": "10/5",
+        "B": "11/5",
+        "C": "13/5",
+        "D": "15/5"
+      },
+      "correct_answer": "C",
+      "attribute_ids": [
+        "A8"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "Q27",
+      "question": "Convert 11/4 to a mixed number.",
+      "options": {
+        "A": "2 1/4",
+        "B": "2 3/4",
+        "C": "3 1/4",
+        "D": "3 3/4"
+      },
+      "correct_answer": "B",
+      "attribute_ids": [
+        "A8"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "Q28",
+      "question": "What is 3/8 + 2/8?",
+      "options": {
+        "A": "5/8",
+        "B": "5/16",
+        "C": "1/2",
+        "D": "6/8"
+      },
+      "correct_answer": "A",
+      "attribute_ids": [
+        "A9"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "Q29",
+      "question": "What is 4/9 + 3/9?",
+      "options": {
+        "A": "7/18",
+        "B": "7/9",
+        "C": "1/9",
+        "D": "8/9"
+      },
+      "correct_answer": "B",
+      "attribute_ids": [
+        "A9"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "Q30",
+      "question": "What is 5/12 + 4/12?",
+      "options": {
+        "A": "9/12",
+        "B": "9/24",
+        "C": "1/12",
+        "D": "8/12"
+      },
+      "correct_answer": "A",
+      "attribute_ids": [
+        "A9"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "Q31",
+      "question": "What is 1/2 + 1/4?",
+      "options": {
+        "A": "3/4",
+        "B": "2/6",
+        "C": "1/6",
+        "D": "2/8"
+      },
+      "correct_answer": "A",
+      "attribute_ids": [
+        "A10"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "Q32",
+      "question": "What is 2/3 + 1/6?",
+      "options": {
+        "A": "3/9",
+        "B": "1/2",
+        "C": "5/6",
+        "D": "4/6"
+      },
+      "correct_answer": "C",
+      "attribute_ids": [
+        "A10"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "Q33",
+      "question": "What is 3/4 + 1/8?",
+      "options": {
+        "A": "4/12",
+        "B": "5/8",
+        "C": "7/8",
+        "D": "1"
+      },
+      "correct_answer": "C",
+      "attribute_ids": [
+        "A10"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "Q34",
+      "question": "What is 7/8 - 3/8?",
+      "options": {
+        "A": "4/8",
+        "B": "4/16",
+        "C": "3/8",
+        "D": "5/8"
+      },
+      "correct_answer": "A",
+      "attribute_ids": [
+        "A11"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "Q35",
+      "question": "What is 5/6 - 1/3?",
+      "options": {
+        "A": "4/3",
+        "B": "1/2",
+        "C": "2/3",
+        "D": "1/3"
+      },
+      "correct_answer": "B",
+      "attribute_ids": [
+        "A11"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "Q36",
+      "question": "What is 3/4 - 1/8?",
+      "options": {
+        "A": "1/2",
+        "B": "5/8",
+        "C": "2/8",
+        "D": "7/8"
+      },
+      "correct_answer": "B",
+      "attribute_ids": [
+        "A11"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "Q37",
+      "question": "Riya ate 2/5 of a pizza and her brother ate 1/5. What fraction was eaten altogether?",
+      "options": {
+        "A": "1/5",
+        "B": "2/5",
+        "C": "3/5",
+        "D": "3/10"
+      },
+      "correct_answer": "C",
+      "attribute_ids": [
+        "A9",
+        "A12"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "Q38",
+      "question": "A tank was 3/4 full. If 1/4 of the tank was used, what fraction remains?",
+      "options": {
+        "A": "1/2",
+        "B": "2/4",
+        "C": "3/8",
+        "D": "1/4"
+      },
+      "correct_answer": "A",
+      "attribute_ids": [
+        "A11",
+        "A12"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "Q39",
+      "question": "A ribbon is 2 1/2 m long. If 1/2 m is cut off, how much remains?",
+      "options": {
+        "A": "1 1/2 m",
+        "B": "2 m",
+        "C": "2 1/4 m",
+        "D": "3 m"
+      },
+      "correct_answer": "B",
+      "attribute_ids": [
+        "A11",
+        "A12"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "Q40",
+      "question": "A student has 3/4 kg of flour and uses 1/8 kg. How much flour is left?",
+      "options": {
+        "A": "5/8 kg",
+        "B": "6/8 kg",
+        "C": "7/8 kg",
+        "D": "1/2 kg"
+      },
+      "correct_answer": "A",
+      "attribute_ids": [
+        "A11",
+        "A12"
+      ],
+      "difficulty": "medium"
+    }
+  ]
+}
