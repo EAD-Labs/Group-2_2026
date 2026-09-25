@@ -19,7 +19,7 @@ Q17,Compare 3/4 and 2/3.,3/4 < 2/3,3/4 = 2/3,3/4 > 2/3,Not comparable,C,A6
 Q18,Which fraction is greatest?,1/2,2/3,3/5,5/8,B,A6
 Q19,Which fraction is least?,4/5,2/3,3/4,5/6,B,A6
 Q20,Which statement is true?,5/6 < 3/4,5/6 > 3/4,5/6 = 3/4,None,B,A6
-Q21,Which statement is true?,7/10 < 2/5,7/10 > 2/5,7/10 = 2/5,None,B,A6
+Q21,Which comparison between 7/10 and 2/5 is correct?,7/10 < 2/5,7/10 > 2/5,7/10 = 2/5,None,B,A6
 Q22,"Arrange 1/4, 3/4, 1/2 from least to greatest.","1/2,1/4,3/4","1/4,1/2,3/4","3/4,1/2,1/4","1/4,3/4,1/2",B,A7
 Q23,"Arrange 2/3, 1/3, 5/6 from least to greatest.","1/3,2/3,5/6","2/3,1/3,5/6","5/6,2/3,1/3","1/3,5/6,2/3",A,A7
 Q24,"Arrange 3/8, 7/8, 5/8 from least to greatest.","7/8,5/8,3/8","3/8,5/8,7/8","5/8,3/8,7/8","3/8,7/8,5/8",B,A7
