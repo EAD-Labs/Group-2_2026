@@ -40,8 +40,6 @@ GEMINI_API_KEY
 
 It also accepts a runtime API key through the `x-llm-api-key` request header.
 
-Do not commit API keys, `.env` files, uploaded PDFs, or other secrets to GitHub.
-
 ## Question output
 
 The LLM generates structured question JSON containing:
